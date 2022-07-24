@@ -5,8 +5,10 @@ int main(){
 	int A,B;
 	cin >> A >> B;
 	
-	int sum = A + B;
-	cout << sum;
+	int sub = A - B;
+	cout << sub;
+	
+	
 
 return 0;
 }
